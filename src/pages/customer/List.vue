@@ -51,7 +51,7 @@
 import request from '@/utils/request'
 import querystring from 'querystring'
 export default {
-    //用于存放网页中需要调用的方法
+    //用于存放网页中需要调用的方法ccc
     methods:{
         loadData(){
              let url = "http://localhost:6677/customer/findAll"
